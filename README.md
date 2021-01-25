@@ -1,5 +1,5 @@
 # Cybersecurity Jokes
-### ~$ infosec jokes
+## ~$ infosec jokes
 > Wanna submit your own? Go ahead! If I like them, I'll merge!
 ---
 > ***#1***:
