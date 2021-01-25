@@ -30,7 +30,7 @@
 > ***#6***:
 >> Q. What did the red teamer say to the blue teamer?
 
->> A. Check this out: (virus.net)[https://en.wikipedia.org/wiki/Rickrolling]
+>> A. Check this out: [virus.net](https://en.wikipedia.org/wiki/Rickrolling)
 ---
 > ***#7***:
 >> I love the F5 key. It's just so refreshing.
