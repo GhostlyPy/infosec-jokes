@@ -7,37 +7,35 @@
 
 >> A. Phishing season
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#2***:
+>> Q. What do you call a turtle that surfs the dark web?
 
->> A. Phishing season
+>> A. A TORtoise
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#3***:
+>> Q. What’s the best way to catch a runaway robot?
 
->> A. Phishing season
+>> A. Use a botnet
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#4***:
+>> Q. Whats the object-oriented way to become wealthy?
 
->> A. Phishing season
+>> A. Inheritance
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#5***:
+>> Q. What is every hacker scared of?
 
->> A. Phishing season
+>> A. Daemons
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#6***:
+>> Q. What did the red teamer say to the blue teamer?
 
->> A. Phishing season
+>> A. Check this out: (virus.net)[https://en.wikipedia.org/wiki/Rickrolling]
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
-
->> A. Phishing season
+> ***#7***:
+>> I love the F5 key. It's just so refreshing.
 ---
-> ***#1***:
->> Q. What's a hacker's favorite season?
+> ***#8***:
+>> Q. What are clouds made of?
 
->> A. Phishing season
+>> A. Linux servers and hate
