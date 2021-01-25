@@ -1,0 +1,2 @@
+# infosec-jokes
+~$ infosec jokes
